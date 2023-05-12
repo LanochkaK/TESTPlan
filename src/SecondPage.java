@@ -1,6 +1,6 @@
 package Start;
 
-public SecondPage {
+public class  SecondPage {
   
   
   // add some features of main menu
